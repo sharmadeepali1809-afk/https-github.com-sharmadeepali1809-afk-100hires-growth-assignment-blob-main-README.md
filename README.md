@@ -61,4 +61,4 @@
 ---
 
 ## Repository Link
-(https://github.com/sharmadeepali1809-afk/https-github.com-sharmadeepali1809-afk-100hires-growth-assignment-blob-main-README.md)
+https://github.com/sharmadeepali1809-afk/100hires-growth-marketing-assignment-1/edit/main/README.md
